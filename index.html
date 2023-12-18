@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Search Website</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div id="logo">JobSearch</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">Post a Job</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="search-bar">
+        <input type="text" id="search-keywords" placeholder="Keywords (e.g., 'Software Engineer')" aria-label="Search by keywords">
+        <input type="text" id="search-location" placeholder="Location (e.g., 'San Francisco')" aria-label="Search by location">
+        <button type="button" id="search-button">Search</button>
+    </section>
+      
+
+    <section id="job-listings">
+        <h2>Current Job Openings</h2>
+        <div id="jobs-container">
+            <!-- Job listings will be added here dynamically -->
+        </div>
+    </section>   
+
+    <footer>
+        <p>&copy; 2023 JobSearch. All rights reserved.</p>
+        <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a></p>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>

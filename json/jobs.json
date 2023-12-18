@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "company": "Tech Innovations Inc.",
+        "location": "San Francisco, CA",
+        "description": "Seeking a full-time software engineer with 3+ years of experience in web development technologies."
+    },
+    {
+        "id": 2,
+        "title": "Graphic Designer",
+        "company": "Creative Minds Agency",
+        "location": "New York, NY",
+        "description": "Looking for a creative graphic designer with a strong portfolio and proficiency in Adobe Creative Suite."
+    },
+    {
+        "id": 3,
+        "title": "Marketing Manager",
+        "company": "Market Leaders Ltd.",
+        "location": "Austin, TX",
+        "description": "Experienced marketing manager needed to lead our dynamic marketing team, focusing on digital marketing strategies."
+    },
+    {
+        "id": 4,
+        "title": "Data Analyst",
+        "company": "Data Insights Corp.",
+        "location": "Boston, MA",
+        "description": "Data analyst required with expertise in data modeling, SQL, and data visualization tools."
+    },
+    {
+        "id": 5,
+        "title": "Human Resources Coordinator",
+        "company": "People First HR Solutions",
+        "location": "Seattle, WA",
+        "description": "Seeking an HR coordinator to manage recruitment processes and employee relations."
+    },
+    {
+        "id": 6,
+        "title": "Software Engineer",
+        "company": "Tech Innovations Inc.",
+        "location": "San Francisco, CA",
+        "description": "Seeking a full-time software engineer with 3+ years of experience in web development technologies."
+    },
+    {
+        "id": 7,
+        "title": "Graphic Designer",
+        "company": "Creative Minds Agency",
+        "location": "New York, NY",
+        "description": "Looking for a creative graphic designer with a strong portfolio and proficiency in Adobe Creative Suite."
+    },
+    {
+        "id": 8,
+        "title": "Marketing Manager",
+        "company": "Market Leaders Ltd.",
+        "location": "Austin, TX",
+        "description": "Experienced marketing manager needed to lead our dynamic marketing team, focusing on digital marketing strategies."
+    },
+    {
+        "id": 9,
+        "title": "Data Analyst",
+        "company": "Data Insights Corp.",
+        "location": "Boston, MA",
+        "description": "Data analyst required with expertise in data modeling, SQL, and data visualization tools."
+    },
+    {
+        "id": 10,
+        "title": "Human Resources Coordinator",
+        "company": "People First HR Solutions",
+        "location": "Seattle, WA",
+        "description": "Seeking an HR coordinator to manage recruitment processes and employee relations."
+    }
+]
